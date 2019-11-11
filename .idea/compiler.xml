@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="TelRan.wiki_mob_android.main" target="1.8" />
+      <module name="TelRan.wiki_mob_android.test" target="1.8" />
       <module name="wiki_mob_android.main" target="1.8" />
       <module name="wiki_mob_android.test" target="1.8" />
     </bytecodeTargetLevel>
